@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Model outputs
+*.pt
+*.pth
+*.pkl
+
+# Dataset files
+data/**/*.csv
+
+# Logs and generated outputs
+logs/
+outputs/
+*.log
+
+# IDE
+.vscode/
+.idea/

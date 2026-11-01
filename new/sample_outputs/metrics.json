@@ -1,0 +1,18 @@
+{
+  "threshold": 0.34099626541137695,
+  "accuracy": 0.7096305109392558,
+  "precision": 0.18486827291150643,
+  "recall": 0.5150564617314931,
+  "f1": 0.27207953603976803,
+  "pr_auc": 0.19863177962983924,
+  "no_skill_pr_auc": 0.10536056580077996,
+  "false_alarm_rate": 0.2674547469523458,
+  "tn": 9915,
+  "fp": 3620,
+  "fn": 773,
+  "tp": 821,
+  "event_recall_pm3d": 0.7992633517495396,
+  "event_precision_pm3d": 0.18658641444539983,
+  "true_reversal_points": 543,
+  "predicted_reversal_points": 2326
+}
